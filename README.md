@@ -70,5 +70,5 @@ DATA_PATH = "/content/drive/MyDrive/LungCancerDataset"
 
 ## Authors
 
-Kandukuri Shesha Venkata Chandra Mouli
-Harshith
+Kandukuri Shesha Venkata Chandra Mouli ,
+Harshith Uddagiri
