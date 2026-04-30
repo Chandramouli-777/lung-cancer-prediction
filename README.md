@@ -1,4 +1,4 @@
-# Lung Cancer Prediction
+
 # Lung Cancer Detection using CT Scan Images
 
 This project uses deep learning to analyze lung CT scan images and classify them into three categories: **Normal, Benign, and Malignant**. The objective is to support early detection of lung abnormalities through image-based analysis.
