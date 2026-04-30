@@ -31,7 +31,7 @@ This project uses deep learning to analyze lung CT scan images and classify them
 The dataset is not included in this repository due to size limitations.
 
 Download the dataset from:
-(Paste your Google Drive link here)
+
 
 After downloading, place the dataset in your Google Drive at:
 https://drive.google.com/drive/folders/1M6McdyEZuqqFr0VJq7lne87JP7cOecF4?usp=sharing
