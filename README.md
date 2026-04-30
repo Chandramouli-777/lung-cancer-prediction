@@ -59,6 +59,11 @@ DATA_PATH = "/content/drive/MyDrive/LungCancerDataset"
 * Malignant: Cancer detected
 
 ---
+## Results
+
+- Accuracy: ~99%
+- Model: CNN-based architecture
+- Evaluation: Confusion Matrix & Classification Report
 
 ## Future Improvements
 
